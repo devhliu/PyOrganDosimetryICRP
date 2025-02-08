@@ -1,0 +1,25 @@
+PyOrganDosimetryICRP/
+├── LICENSE
+├── README.md
+├── pyorgandosimetryicrp/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data_loader.py
+│   ├── dosimetry.py
+│   ├── models.py
+│   ├── utils.py
+│   ├── svalues/
+│   │   ├── F18.csv
+│   │   ├── Ga68.csv
+│   │   ├── Cu64.csv
+│   │   ├── Zr89.csv
+│   │   ├── I131.csv
+│   │   ├── Lu177.csv
+│   │   ├── Ac225.csv
+│   │   ├── Pb212.csv
+│   │   └── README.md
+│   └── examples/
+│       ├── input_template.csv
+│       └── example_data.csv
+├── setup.py
+└── tests/
